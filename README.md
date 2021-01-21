@@ -13,3 +13,9 @@ PICTURE
 If the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils should not exceed 100 pounds per square inch, it means that the current manufacturing data does meet this design specification for every lot except the third lot because the variance in numbers for the third lot is too high. 
 
 PICTURE 
+
+## T-Tests on Suspension Coils
+With the T tests, when comparing the T test for the PSI across all manufacturing lots to the PSI for each manufacturing lot, it's safe to say that we are accepting the null hypthesis between the PSI across all manufacturing lots and the PSI for lot 1 but we are rejecting the null hypothesis for between the PSI across all manufacturing lots and the PSI for lot 2 and 3. 
+
+## Study Design: MechaCar vs Competition
+I would create a test saying the larger the car in size, the lower the gas per milage. After finding the mean car sizes of all car sizes, for the null hypothesis I would expect that the larger the size of the car it would result in lower gas per milage. The alternative hypthesis would say that the larger the size of the car, it would result in higher gas per milage. 
