@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-I would say that vehicle length and spoiler angle are two variables that provide a non random amount of variance to the mpg values in the dataset because in qualatative terms, non random variables have a single value that does not vary, and thus have zero variance.
+I would say that vehicle length and ground clearance are two variables that provide a non random amount of variance to the mpg values in the dataset because in qualatative terms, non random variables have a single value that does not vary, and thus have zero variance.
 
 The slope of the linear model is not considered to be zero because the coefficients for the variables are not zero.
 
