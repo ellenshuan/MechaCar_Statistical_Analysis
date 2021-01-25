@@ -22,8 +22,9 @@ Statistical summary of PSI of Suspension Coils
 ## T-Tests on Suspension Coils
 The p-value from lot 1 and lot 2 is greater than than .05, meaning we can assume the PSI values are not statically different. The p value for Lot 3 is assumed to be of .04168. This implies that the PSI is indeed statically different from the population.
 
-T-Test Statistical Summary on Suspension COils: 
+T-Test Statistical Summary on Suspension Coils: 
  ![](./Resources/Deliverable_3.png)
+
 
 ## Study Design: MechaCar vs Competition
 I would create a test saying the larger the car in size, the lower the gas per milage. After finding the mean car sizes of all car sizes, for the null hypothesis I would expect that the larger the size of the car it would result in lower gas per milage. The alternative hypothesis would say that the larger the size of the car, it would result in higher gas per milage.
